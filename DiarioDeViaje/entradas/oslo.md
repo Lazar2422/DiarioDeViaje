@@ -1,7 +1,7 @@
 # Oslo, Noruega
 
 ## Descripción
-Capital de Noruega, un muy buen sitio para ver las auroras boreales.
+La ciudad de la tradición artística noruega.
 
 ## Recomendación
 Visitar la fortaleza de Akershus.
