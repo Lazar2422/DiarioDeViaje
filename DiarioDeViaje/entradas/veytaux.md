@@ -3,3 +3,6 @@
 ## Descripción
 Comuna suiza situada al oriente del lago Lemán.
 
+## Recomendación
+Visitar el castillo de Chillon.
+
